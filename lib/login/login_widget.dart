@@ -212,7 +212,7 @@ class _LoginWidgetState extends State<LoginWidget>
                                             filled: true,
                                             fillColor:
                                                 FlutterFlowTheme.of(context)
-                                                    .secondaryBackground,
+                                                    .secondary,
                                             contentPadding:
                                                 const EdgeInsetsDirectional.fromSTEB(
                                                     24.0, 26.0, 24.0, 26.0),
